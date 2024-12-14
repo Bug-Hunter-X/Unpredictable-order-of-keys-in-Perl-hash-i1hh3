@@ -1,0 +1,1 @@
+This repository contains a Perl script that demonstrates an uncommon code error related to the unpredictable order of keys when iterating over a hash using the keys function. The script shows how this can lead to unexpected results, and provides a solution to ensure consistent key order if needed.
